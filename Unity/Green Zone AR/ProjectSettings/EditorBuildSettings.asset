@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Green Zone App/Scenes/Ellaya_001.unity
+    guid: 412e803bb42567a46a3f8533975c1747
   m_configObjects: {}
